@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Marah-E-Exam">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Marah-E-Exam.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
